@@ -6,6 +6,9 @@
 -------------------------------------------
 * Added SDK Initialization API independent of build configuration.
 
+## Cards
+* Added support for Cards on Login
+
 # 25-04-2024
 
 ## PluginBase 4.8.2 
