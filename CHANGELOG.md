@@ -9,6 +9,24 @@
 ## Cards
 * Added support for Cards on Login
 
+# 03-07-2024
+
+## PluginBase 4.9.0
+-------------------------------------------
+* Added SDK Initialization API independent of build configuration.
+
+## Cards 1.6.0
+-------------------------------------------
+* Updated the PluginBase `4.9.0`.
+
+## Inbox 2.9.0
+-------------------------------------------
+* Updated the PluginBase `4.9.0`.
+
+## Geofence 2.9.0
+-------------------------------------------
+* Updated the PluginBase `4.9.0`.
+
 # 25-04-2024
 
 ## PluginBase 4.8.2 
