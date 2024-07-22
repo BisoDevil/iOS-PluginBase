@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
 
     
     s.source       = {
-                        :git => 'https://github.com/moengage/iOS-PluginBase.git',
+                        :git => 'https://github.com/BisoDevil/iOS-PluginBase.git',
                         :tag => 'pluginBase-' + s.version.to_s
                     }
 
